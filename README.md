@@ -1,8 +1,6 @@
 ![Assembler School Logo](https://assets.website-files.com/5d7ac47d34aefe1ecf290ce6/5d7ac68da9740c393a589ee7_logo_org_1.png)
 
-
-
-# Github Project Management Reference
+# Tutorial Project Management
 
 ## Basic Kanban
 
@@ -127,8 +125,8 @@ Si vamos a nuestro Sprint, como hemos cumplido con todas las tareas, tendremos u
 
 ## Practica:
 
-- Se deberá Forkear el repositorio: [https://github.com/assembler-school/github-project-management](https://github.com/assembler-school/github-project-management)
-- Entrar en el repositorio forkeado, e invitar a los colaboradores. Ir a settings:
+-   Se deberá Forkear el repositorio: [https://github.com/assembler-school/github-project-management](https://github.com/assembler-school/github-project-management)
+-   Entrar en el repositorio forkeado, e invitar a los colaboradores. Ir a settings:
 
 ![](./assets/asset28.png)
 
@@ -150,10 +148,10 @@ Le damos permisos para que pueda colaborar como admin
 
 ![](./assets/asset33.png)
 
-- Una vez estén todos los colaboradores, empezar a crear el Proyecto.
-- Crear una milestone (Sprint)
-- Crear 4 issues, basados en: [https://github.com/assembler-school/github-project-management/projects/2](https://github.com/assembler-school/github-project-management/projects/2)
-- Empezar a desarrollar los Issues siguiendo la metodología, y commitear vuestros cambios. _Recordad que los mensajes de commit deben estar vinculados al numero de la Issue!_
+-   Una vez estén todos los colaboradores, empezar a crear el Proyecto.
+-   Crear una milestone (Sprint)
+-   Crear 4 issues, basados en: [https://github.com/assembler-school/github-project-management/projects/2](https://github.com/assembler-school/github-project-management/projects/2)
+-   Empezar a desarrollar los Issues siguiendo la metodología, y commitear vuestros cambios. _Recordad que los mensajes de commit deben estar vinculados al numero de la Issue!_
 
 Happy coding! 🧡
 
